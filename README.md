@@ -1,4 +1,5 @@
 # Domain Maker
+[![GitHub traffic](https://img.shields.io/badge/dynamic/json?color=green&label=traffic&query=value&url=https://api.github.com/repos/00-Python/Scambaiting-popup-Domain-Crafter-and-Checker/traffic/views)](https://github.com/00-Python/Scambaiting-popup-Domain-Crafter-and-Checker/graphs/traffic)
 
 This is a Python script that swaps wildcard characters in a domain name with specified letters, generating a list of possible domain names. It can also check if the generated domains are live and write the results to a file.
 
