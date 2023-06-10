@@ -2,6 +2,11 @@
 
 This is a Python script that swaps wildcard characters in a domain name with specified letters, generating a list of possible domain names. It can also check if the generated domains are live and write the results to a file.
 
+## Install
+```
+pip install requests
+```
+
 ## Usage
 
 To use the script, run it in the command line with the appropriate arguments, including the optional flags for checking live domains and specifying an output file name.
